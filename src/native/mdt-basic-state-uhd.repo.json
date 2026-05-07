@@ -1,0 +1,12 @@
+{
+  "name": "mdt-basic-state-uhd",
+  "displayName": "MDT Basic State UHD",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-Basic-State-UHD.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json"
+}

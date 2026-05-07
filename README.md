@@ -12,17 +12,17 @@
   </p>
 </div>
 
-# mdt Plugin Market
+# mdt 插件市场
 
-This repository stores plugin metadata under `src/` and provides a scanner/downloader script.
+这是一个通过 `git clone` / `git pull` 获取插件列表的插件市场仓库。
 
-## Version Rule
+## 版本规则
 
-- The market version is defined in `market-config.json`.
-- A plugin is installable by default only when both `version` and `requiredMarketVersion` match the current market version.
-- If someone still wants to install an incompatible plugin, use `--force-install`.
+- 当前市场版本由 `market-config.json` 中的 `marketVersion` 控制。
+- 插件默认只有在 `version` 和 `requiredMarketVersion` 都与当前市场版本一致时才允许正常安装。
+- 如果用户明确要求安装不匹配版本的插件，可以使用 `--force-install` 强制安装。
 
-## Structure
+## 目录结构
 
 ```text
 src/
@@ -35,7 +35,7 @@ plugin-market.json
 downloads/
 ```
 
-## Commands
+## 常用命令
 
 ```powershell
 python .\scripts\plugin_market.py scan
@@ -43,3 +43,22 @@ python .\scripts\plugin_market.py build-index
 python .\scripts\plugin_market.py download mdt-jump-plugin
 python .\scripts\plugin_market.py --force-install download mdt-jump-plugin
 ```
+
+## 元数据说明
+
+每个插件使用一个独立的 `*.market.json` 文件描述，支持以下主要字段：
+
+- `name`
+- `displayName`
+- `author`
+- `description`
+- `version`
+- `requiredMarketVersion`
+- `channel`
+- `targets`
+- `downloadUrls`
+- `dependencies`
+- `repositoryUrl`
+- `entry`
+
+下载链接必须指向完整文件，不能是目录或站点首页。

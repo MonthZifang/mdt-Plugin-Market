@@ -1,12 +1,15 @@
 {
   "name": "mdt-jump-plugin-native",
-  "displayName": "mdt Jump Plugin Native Adapter",
+  "displayName": "MDT Jump Plugin Native Display",
   "author": "monthzifang",
   "channel": "native",
   "targets": [
     "native"
   ],
-  "gitRepository": "https://github.com/MonthZifang/mdt---Jump-Plugin.git",
+  "gitRepository": "https://github.com/MonthZifang/mdt-Player-com-id-display.git",
   "gitBranch": "main",
-  "pluginMetadataFile": "market.plugin.json"
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-jump-plugin"
+  ]
 }

@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/MonthZifang/YUEYUEDAO-TECH">
-    <img src="./md/logo.png" alt="月月岛科技 Logo" width="170" />
+    <img src="./md/logo.png" alt="月月岛科技 Logo" width="720" />
   </a>
 
   <p><strong>月月岛科技维护 MDT Plugin Market</strong></p>

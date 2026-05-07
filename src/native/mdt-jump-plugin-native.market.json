@@ -1,0 +1,17 @@
+{
+  "name": "mdt-jump-plugin-native",
+  "displayName": "mdt Jump Plugin Native Adapter",
+  "author": "monthzifang",
+  "description": "Native-side market entry example for the Jump plugin with the same market-version rules and downloadable artifacts.",
+  "version": "v1",
+  "requiredMarketVersion": "v1",
+  "channel": "native",
+  "targets": ["native"],
+  "downloadUrls": [
+    "https://raw.githubusercontent.com/MonthZifang/mdt---Jump-Plugin/main/dist/mdt-jump-plugin.jar",
+    "https://raw.githubusercontent.com/MonthZifang/mdt---Jump-Plugin/main/plugin.json"
+  ],
+  "dependencies": [],
+  "repositoryUrl": "https://github.com/MonthZifang/mdt---Jump-Plugin",
+  "entry": "com.mdt.jump.JumpComIdPlugin"
+}

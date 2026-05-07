@@ -1,0 +1,17 @@
+{
+  "name": "mdt-jump-plugin",
+  "displayName": "mdt Jump Plugin",
+  "author": "monthzifang",
+  "description": "Generate 4-character com ids for Mindustry player UUIDs with local storage, optional JDBC storage, and HTTP API access.",
+  "version": "v1",
+  "requiredMarketVersion": "v1",
+  "channel": "modded",
+  "targets": ["mdt", "mdtx"],
+  "downloadUrls": [
+    "https://raw.githubusercontent.com/MonthZifang/mdt---Jump-Plugin/main/dist/mdt-jump-plugin.jar",
+    "https://raw.githubusercontent.com/MonthZifang/mdt---Jump-Plugin/main/plugin.json"
+  ],
+  "dependencies": [],
+  "repositoryUrl": "https://github.com/MonthZifang/mdt---Jump-Plugin",
+  "entry": "com.mdt.jump.JumpComIdPlugin"
+}

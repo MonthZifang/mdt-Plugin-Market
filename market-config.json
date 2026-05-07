@@ -1,0 +1,6 @@
+{
+  "marketName": "mdt Plugin Market",
+  "marketVersion": "v1",
+  "indexFile": "plugin-market.json",
+  "downloadRoot": "downloads"
+}

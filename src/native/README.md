@@ -1,3 +1,5 @@
 # native
 
-Place metadata for native-side plugins here.
+这里登记原生端适配插件仓库。
+
+客户端应扫描本目录下全部 `*.repo.json`。

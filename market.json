@@ -1,0 +1,16 @@
+{
+  "name": "mdt Plugin Market",
+  "version": "v1",
+  "mode": "git-only",
+  "pluginMetadataFile": "market.plugin.json",
+  "registryFileSuffix": ".repo.json",
+  "scanDirectories": [
+    "src/modded",
+    "src/native"
+  ],
+  "installRule": {
+    "pluginVersionMustEqualMarketVersion": true,
+    "requiredMarketVersionMustEqualMarketVersion": true,
+    "allowForceInstall": true
+  }
+}

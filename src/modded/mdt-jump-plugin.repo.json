@@ -1,0 +1,13 @@
+{
+  "name": "mdt-jump-plugin",
+  "displayName": "mdt Jump Plugin",
+  "author": "monthzifang",
+  "channel": "modded",
+  "targets": [
+    "mdt",
+    "mdtx"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt---Jump-Plugin.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json"
+}

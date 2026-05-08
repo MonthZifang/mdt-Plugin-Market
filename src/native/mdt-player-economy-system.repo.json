@@ -1,0 +1,15 @@
+{
+  "name": "mdt-player-economy-system",
+  "displayName": "MDT 玩家经济系统",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-Player-Economy-System.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-list-data-system"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mdt-player-leaderboard",
+  "displayName": "MDT 玩家排行榜",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-Player-Leaderboard.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-list-data-system"
+  ]
+}

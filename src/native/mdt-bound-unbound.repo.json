@@ -1,0 +1,16 @@
+{
+  "name": "mdt-bound-unbound",
+  "displayName": "MDT 绑定与未绑定",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-Bound-Unbound.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-jump-plugin",
+    "mdt-list-data-system"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mdt-player-level-system",
+  "displayName": "MDT 玩家等级系统",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-Player-Level-System.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-list-data-system"
+  ]
+}

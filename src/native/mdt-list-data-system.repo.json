@@ -1,0 +1,13 @@
+{
+  "name": "mdt-list-data-system",
+  "displayName": "MDT 列表数据系统",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-List-Data-System.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
+}

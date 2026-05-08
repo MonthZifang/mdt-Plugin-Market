@@ -1,0 +1,13 @@
+{
+  "name": "mdt-api-interface-call",
+  "displayName": "MDT API接口调用",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-API-interface-call.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
+}

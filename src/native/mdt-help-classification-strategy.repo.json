@@ -1,0 +1,13 @@
+{
+  "name": "mdt-help-classification-strategy",
+  "displayName": "MDT Help分类策略",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-help-classification-strategy.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
+}

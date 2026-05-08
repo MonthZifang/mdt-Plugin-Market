@@ -1,0 +1,13 @@
+{
+  "name": "mdt-anonymous-plugin",
+  "displayName": "MDT 匿名插件",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-Anonymous-plugin.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
+}

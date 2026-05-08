@@ -1,0 +1,15 @@
+{
+  "name": "mdt-chat-access",
+  "displayName": "MDT 聊天出入",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-Chat-access.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-list-data-system"
+  ]
+}

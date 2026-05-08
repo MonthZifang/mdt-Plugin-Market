@@ -1,0 +1,13 @@
+{
+  "name": "mdt-planning-plan-restart",
+  "displayName": "MDT 规划计划重启",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-Planning-plan-restart.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
+}

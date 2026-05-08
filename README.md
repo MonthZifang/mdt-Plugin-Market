@@ -1,5 +1,3 @@
-[go-Mindustry](https://github.com/tomorrowsetout/go-Mindustry)
-
 <div align="center">
   <a href="https://github.com/MonthZifang/YUEYUEDAO-TECH">
     <img src="./md/logo.png" alt="月月岛科技 Logo" width="720" />
@@ -103,6 +101,13 @@ market.plugin.json
 
 ## 说明
 
-- 这个仓库不再内置 Python 脚本
-- 这个仓库不再生成本地索引
+- 这个仓库不生成本地索引
 - 市场逻辑全权交由 Git 路径与固定元数据文件完成
+- 如果你想提交你自己的插件请提交PR
+
+ ## 插件提交必要说明
+
+- 插件原则上应开源。非开源插件也可以接入本仓库，但必须提供完整的插件源码或 JAR 文件。
+- 如果你的插件是其他插件的衍生作品，必须遵守原作者发布的个人协议，并受该协议约束。
+- 如有任何问题，请通过提交 Issue / 提议，或邮件、QQ 群等渠道与我联系。
+ 

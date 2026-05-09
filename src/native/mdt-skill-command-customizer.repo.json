@@ -1,0 +1,15 @@
+{
+  "name": "mdt-skill-command-customizer",
+  "displayName": "MDT 技能命令自定义",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-skill-command-customizer.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-player-economy-system"
+  ]
+}

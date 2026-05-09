@@ -1,0 +1,15 @@
+{
+  "name": "mdt-help-list-layout",
+  "displayName": "MDT Help 列表排版",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-help-list-layout.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-help-classification-strategy"
+  ]
+}

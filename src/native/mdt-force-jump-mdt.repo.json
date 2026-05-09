@@ -1,0 +1,13 @@
+{
+  "name": "mdt-force-jump-mdt",
+  "displayName": "MDT 入服强跳",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-force-jump-mdt.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
+}

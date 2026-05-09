@@ -1,6 +1,6 @@
 {
   "name": "core-module-of-the-plugin-market",
-  "displayName": "Core Module of the Plugin Market",
+  "displayName": "插件市场核心模块",
   "author": "monthzifang",
   "channel": "native",
   "targets": [
@@ -8,5 +8,6 @@
   ],
   "gitRepository": "https://github.com/MonthZifang/Core-Module-of-the-Plugin-Market.git",
   "gitBranch": "main",
-  "pluginMetadataFile": "market.plugin.json"
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
 }

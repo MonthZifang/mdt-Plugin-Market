@@ -1,0 +1,14 @@
+{
+  "name": "mdt-foundation-world-control",
+  "displayName": "MDT 基垫物世界控制插件",
+  "author": "monthzifang",
+  "channel": "modded",
+  "targets": [
+    "mdt",
+    "mdtx"
+  ],
+  "gitRepository": "",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
+}

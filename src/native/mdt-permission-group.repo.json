@@ -1,0 +1,13 @@
+{
+  "name": "mdt-permission-group",
+  "displayName": "MDT 权限组中心",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
+}

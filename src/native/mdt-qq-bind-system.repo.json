@@ -1,0 +1,16 @@
+{
+  "name": "mdt-qq-bind-system",
+  "displayName": "MDT QQ绑定系统",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-jump-plugin",
+    "mdt-uhd-renderer"
+  ]
+}

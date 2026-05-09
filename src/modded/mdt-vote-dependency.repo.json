@@ -1,0 +1,16 @@
+{
+  "name": "mdt-vote-dependency",
+  "displayName": "MDT 投票依赖",
+  "author": "monthzifang",
+  "channel": "modded",
+  "targets": [
+    "mdt",
+    "mdtx"
+  ],
+  "gitRepository": "",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": [
+    "mdt-uhd-renderer"
+  ]
+}

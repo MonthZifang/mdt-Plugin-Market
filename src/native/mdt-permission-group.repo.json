@@ -6,7 +6,7 @@
   "targets": [
     "original"
   ],
-  "gitRepository": "",
+  "gitRepository": "https://github.com/MonthZifang/mdt-permission-group.git",
   "gitBranch": "main",
   "pluginMetadataFile": "market.plugin.json",
   "dependencies": []

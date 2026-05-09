@@ -7,7 +7,7 @@
     "mdt",
     "mdtx"
   ],
-  "gitRepository": "",
+  "gitRepository": "https://github.com/MonthZifang/mdt-foundation-world-control.git",
   "gitBranch": "main",
   "pluginMetadataFile": "market.plugin.json",
   "dependencies": []

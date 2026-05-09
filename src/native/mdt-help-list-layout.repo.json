@@ -6,7 +6,7 @@
   "targets": [
     "original"
   ],
-  "gitRepository": "https://github.com/MonthZifang/mdt-help-list-layout.git",
+  "gitRepository": "https://github.com/MonthZifang/help-.git",
   "gitBranch": "main",
   "pluginMetadataFile": "market.plugin.json",
   "dependencies": [

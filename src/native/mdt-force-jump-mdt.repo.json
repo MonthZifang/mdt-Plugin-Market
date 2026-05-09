@@ -6,7 +6,7 @@
   "targets": [
     "original"
   ],
-  "gitRepository": "https://github.com/MonthZifang/mdt-force-jump-mdt.git",
+  "gitRepository": "https://github.com/MonthZifang/-mdt.git",
   "gitBranch": "main",
   "pluginMetadataFile": "market.plugin.json",
   "dependencies": []

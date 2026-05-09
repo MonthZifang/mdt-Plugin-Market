@@ -7,7 +7,7 @@
     "mdt",
     "mdtx"
   ],
-  "gitRepository": "",
+  "gitRepository": "https://github.com/MonthZifang/mdt-vote-dependency.git",
   "gitBranch": "main",
   "pluginMetadataFile": "market.plugin.json",
   "dependencies": [

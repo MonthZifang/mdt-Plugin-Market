@@ -1,0 +1,13 @@
+{
+  "name": "mdt-wz-map-bridge",
+  "displayName": "MDT WZ 地图桥接模块",
+  "author": "monthzifang",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "gitRepository": "https://github.com/MonthZifang/mdt-wz-map-bridge.git",
+  "gitBranch": "main",
+  "pluginMetadataFile": "market.plugin.json",
+  "dependencies": []
+}
